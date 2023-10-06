@@ -100,3 +100,8 @@ r = 5; <- r 이 변하지 않는다.
 
 운영체제 영역과 어플리케이션 영역을 분리한다.
 ```
+[AVR에서의 cli(), sei()](https://article2.tistory.com/1035)
+```
+AVR에서의 cli는 Clear Global Interrupt Flag <- 인터럽트를 disabled 시키는 함수이다.
+seti) 함수는 Set Global Interrupt Flag의 약자로 인터럽트를 enabled 시키는 함수이다.
+```
