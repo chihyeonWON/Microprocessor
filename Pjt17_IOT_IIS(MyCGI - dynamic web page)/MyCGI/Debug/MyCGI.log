@@ -1,0 +1,3 @@
+﻿  MyCGI_main.c
+D:\Projects_CGI(Visual)\Pjt17_IOT_IIS(MyCGI - dynamic web page)\MyCGI\MyCGI_main.c(9,7): warning C4101: 'data' :참조되지 않은 지역 변수입니다.
+  MyCGI.vcxproj -> D:\Projects_CGI(Visual)\Pjt17_IOT_IIS(MyCGI - dynamic web page)\Debug\MyCGI.exe
