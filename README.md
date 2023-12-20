@@ -1,5 +1,12 @@
 # Microprocessor
 컴퓨터공학과 마이크로프로세서 실습 정리입니다.
+## 종강
+![image](https://github.com/mr-won/Microprocessor/assets/58906858/3d0d99f4-207d-4203-84bc-85194fefeb94)
+```
+GEMS-CRC 모트(ATmeaga2560 마이크로 프로세서 활용 방법)을 다루는 과목으로 전원 및 직렬 통신 케이블 연결, 소프트웨어 개발도구
+UART 장치 구동기, 소프트웨어 타이머, 운영체제 타스크, 센서 인터페이스 표준들을 위한 구동기, 부트 로더, 컴파일러 최적화 이슈 등을
+포함하고 IOT 모델을 완성하는 인터넷과의 연결 방법을 학습하였습니다.
+```
 
 ![image](https://github.com/wonttan/Microprocessor/assets/58906858/9f83a623-0375-4f18-b6d3-845993470962)
 ```
